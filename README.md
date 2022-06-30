@@ -7,4 +7,6 @@ App Android Nativo de simulação de partidas. Este repositório foi organizado 
    - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/LoriViana/simulador-android-app/tree/release/desenvolvimento-mobile-nativo-para-android)
 2. Java e Kotlin Juntos? Construindo Apps Android
    - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/LoriViana/simulador-android-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+2. Explorando o Firebase Para Apps Android Resilientes
+   - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/LoriViana/simulador-android-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
 
